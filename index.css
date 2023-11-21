@@ -1,3 +1,116 @@
-p{
-    color: yellow;
+body{
+    background-color: rgb(249, 249, 133);
 }
+
+/*unir texto con imagen pero solo para computador. Como se hace? 
+div{
+    display:flex;
+} */
+
+/* Agrandar letra parrafo */
+
+.parrafo{
+    font-size: 30px;
+    border: 2px ;
+}
+/* Arreglar mis fotos*/
+
+.yo {
+    border-radius: 20px 0;
+    width: 500px;
+    height: 600px;
+   
+}
+
+.figure {
+    display:flex;
+    justify-content: center;
+    align-items: :
+}
+
+.camaron{
+    border-radius: 20px 0;
+    width: 400px;
+    height: 300px;
+    margin:auto;
+}
+
+.familia{
+    border-radius: 20px 0;
+    width: 400px;
+    height: 400px;
+    margin:auto;
+}
+
+.Adele {
+    border-radius: 20px 0;
+    width: 300px;
+    height: 400px;
+    margin:auto;
+}
+
+/*arreglar parrafos y titulos*/
+
+p {
+   
+    font-size: large;
+    text-align: center;
+    margin:auto
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color:yellowgreen;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+h2 {
+    text-align: center;
+    color: yellowgreen;
+    font-family: 'Dancing Script', cursive;
+}
+
+dt {
+    color: blue;
+    font-size: 20px
+}
+
+/*decorar tableta*/
+
+table, th, td {
+    border: 1px solid blue;   
+}
+
+/*centrar contenido*/
+
+.contenido{
+    text-align: center;
+    list-style: none;
+    display: block;
+    padding: 20px;
+    display: inline-block;
+    text-align: center;
+    box-shadow: 4px 4px 4px (255, 200, 0);
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+/*hacer mi caja al menu*/
+
+.menu{
+    padding: center;
+    border: 2px solid rgb(255, 200, 0);
+    box-shadow: 4px 4px 4px (255, 200, 0);
+}
+
+/* centrar imagen*/
+figure{
+    text-align: center;
+    box-shadow: 4px 4px 4px (255, 200, 0);
+}
+
+
+
