@@ -124,9 +124,27 @@ figure{
     background-color: yellowgreen;
     list-style: none;
     border-radius: 20px;
-    
-
+    display: inline-block;
 }
+
+/*PIE DE PAGINA*/
+footer {
+    background: white;
+    min-height: 10px;
+}
+
+footer p {
+    color: black;
+    text-align: center;
+}
+
+#iconos i {
+    font-size: 26px;
+    color: black;
+    justify-content: center;
+    
+}
+
 
 
 
