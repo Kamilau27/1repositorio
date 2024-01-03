@@ -1,3 +1,5 @@
+/*Fondo pantalle */
+
 body{
     background-color: rgb(249, 249, 133);
 }
@@ -13,6 +15,8 @@ div{
     font-size: 30px;
     border: 2px ;
 }
+
+
 /* Arreglar mis fotos*/
 
 .yo {
@@ -25,7 +29,6 @@ div{
 .figure {
     display:flex;
     justify-content: center;
-    align-items: :
 }
 
 .camaron{
@@ -108,9 +111,23 @@ table, th, td {
 
 /* centrar imagen*/
 figure{
+
     text-align: center;
     box-shadow: 4px 4px 4px (255, 200, 0);
 }
+
+/*Crear botom*/
+
+.REGRESAR{
+    border: 2px dotted yellowgreen;
+    text-align: center;
+    background-color: yellowgreen;
+    list-style: none;
+    border-radius: 20px;
+    
+
+}
+
 
 
 
